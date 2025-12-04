@@ -1,1 +1,86 @@
-
+[
+  {
+    "q": "i m selling my 24/7 store business number 48 for 200million or want to trade with any gas station in the city. (Category?)",
+    "a": "Selling or trading 24/7 Store №48 for Gas Station business in city. Price: $200 Million. (Business)"
+  },
+  {
+    "q": "i am professional gardener, looking for work service charge 50k per hour (Category?)",
+    "a": "Looking for work as a gardener. Salary: $50.000 per hour. (Work)"
+  },
+  {
+    "q": "selling %25attac,20% protection and %10 juices Inbulk. prices: 100000k,9k and 3000$ each respectivle (Category?)",
+    "a": "Selling 25% attack, 20% protection and 10% juices in bulk. Price: $100.000, $9.000 and $3.000 each respectively. (Other)"
+  },
+  {
+    "q": "looking for Sully Ra'Nell. (Category?)",
+    "a": "Rejected - Reason: Can not look for leaders/deputy leaders of state organisations. or Rejected. Reason: Cannot look for leaders of state organisations. or Rejected. Cannot look for state leaders."
+  },
+  {
+    "q": "saliing car ticket,tied sca mas rims 3,4 5 price nego (Category?)",
+    "a": "Rejected - Reason: Cannot advertise more than 3 items at a time. or Selling car ticket, tied scarf mask and unique rims. Price: Negotiable. (Other)"
+  },
+  {
+    "q": "im not sure to sell or trade my Cybertruc party conf, insurance expenses turbo kits and dirif kits pro tungin virsual upgrad (Category?)",
+    "a": "Selling or trading \"Coil Cybertruck\" in partial configuration with visual upgrades, insurance, tuning parts, turbo and drift kit. Price: Negotiable. (Auto)"
+  },
+  {
+    "q": "I need to buy home in cayo perico island with pool garden drive way, hellypad interior insurance30 days 25 garaja spase 5w.sace and great view price unlimited budget. (Category?)",
+    "a": "Buying a house with a garden, 25 g.s., 5 w.h., custom interior, insurance, helipad, long driveway, swimming pool and a great view in Cayo Perico Island. Budget: Negotiable. (Real Estate)"
+  },
+  {
+    "q": "I have 1 villa its good gor fam house garage stoke 25, 5W.house, garaj, pool, helly, long drtway, and beautiful and good view richmand, 200000000$ Also 30days insurance. (CATAGORY)",
+    "a": "Selling a mansion with a garden, 25 g.s., 5 w.h., custom interior, insurance, helipad, long driveway, swimming pool and a good view. Price: Negotiable. (Real Estate)"
+  },
+  {
+    "q": "selling SB  with (part)level 3 or below,full and max turbo, dirif kit,max quality Engine,suspension,tyres,brakes,transmission,Body upgrades,15 daysinsurance im waiting best price. (CATAGORY)",
+    "a": "Selling \"Ocelot Vanquish Zagato SB\" in partial configuration, visual upgrades, insurance, tuning parts, turbo and drift kit. Price: Negotiable. (Auto)"
+  },
+  {
+    "q": "my family and I we are good ppl and lookg alliances (CATAGORY)",
+    "a": "Looking for family friends. (Dating)"
+  },
+  {
+    "q": "selling electric station shop. price 50000000 (CATAGORY)",
+    "a": "Selling Electric Charging Station business. Price: $50 Million. (Business)"
+  },
+  {
+    "q": "I don't have anyjob and planning to work construction we can talk price. (CATAGORY)",
+    "a": "Looking for a job at the construction site. Salary: Negotiable. (Work)"
+  },
+  {
+    "q": "I wanna buy pikachu hoodie any colour, Playboy t-shit and Vans sneakers anyone wanna trade? for 50 million 10 million and 3 million (CATAGORY)",
+    "a": "Buying Mikachu hoodie, luminous LM Playboy T-shirt and Pans sneakers. Budget: $50 Million and $3 Million respectively. (Other)"
+  },
+  {
+    "q": "I have  any ORG items for sellin. 45k each (CATAGORY)",
+    "a": "Rejected & Blacklisted: Reason: Improper or invalid trading advertisement. or Rejected + Blacklisted - Reason: Improper or invalid trading advertisement."
+  },
+  {
+    "q": "we are looking for a mension villa for my family with very good views, long drive space area, helipad also swimming pool, upgraded interior, 25 car parking area will be suitable location must be in vinewood hills my budget 1 billion (Category?)",
+    "a": "Buying a mansion with 25 g.s., custom interior, helipad, long driveway, swimming pool and a good view in Vinewood Hills. Budget: $1 Billion. (Real Estate)"
+  },
+  {
+    "q": "i am new to the city and i am looking for mafia family to join (Category?)",
+    "a": "Rejected Reason: Cannot look for a classified family. or Looking for a family. (Dating)"
+  },
+  {
+    "q": "I am a professional bodyguard, I am looking for work and my service payment 100k for each hour. Feel free to contact with me (Category?)",
+    "a": "Looking for work as a bodyguard. Salary: $100.000 per hour. (Work)"
+  },
+  {
+    "q": "I want to buy house or apartment with 25 garage space, 5 warehouse with russian interior near to the beach market and my budget is 10 million i dont have more money than that (Category?)",
+    "a": "Buying a house or an apartment with 25 g.s., 5 w.h. and custom interior near beach market. Budget: $10 Million. (Real Estate)"
+  },
+  {
+    "q": "selling my buzzard helicopter or trading with frogger helicopter, no need any upgrades on frogger helicopter as my heicopter also dont have any visual upgrades (Category?)",
+    "a": "Selling or trading \"Buzzard\" for \"Frogger\". Price: Negotiable. (Auto)"
+  },
+  {
+    "q": "selling my gunshop business number 148 in 500m or trading with good area in city 24/7 store business  (Category?)",
+    "a": "Selling or trading Ammunition Store №148 for 24/7 Store business. Price: $500 Million. (Business)"
+  },
+  {
+    "q": "buying scary chicken bag skin and power armour vest skin 1 and 3. budget 1million, 2 million and 3.5 million dollar (Category?)",
+    "a": "Buying scary chicken backpack skin, power armoured vest skin (V.1) and (V.3). Budget: $1 Million, $2 Million and $3.5 Million respectively. (Other)"
+  }
+]
