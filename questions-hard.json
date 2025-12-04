@@ -1,1 +1,86 @@
-
+[
+  {
+    "q": "im selling ticket of car 1500000m ,p1 case: 15k$ anD scrf mask cont 10000. price and nego  (Category?)",
+    "a": "Selling a car ticket, a Progen container and a desert scarf mask container. Price: $1.5 Million, $15.000 and $10.000 respectively. (Other)"
+  },
+  {
+    "q": "I need to buy 1 bike and sport car. (Category?)",
+    "a": "Rejected - Reason: Cannot advertise more than 1 vehicle at a time. or Rejected. Reason: Cannot advertise more than 1 vehicle at a time."
+  },
+  {
+    "q": "I want to sell 2 sim cart 9019999 and 7017777 (Category?)",
+    "a": "Selling sim-cards with numbers 90-19-999 and 70-17-777. Price: Negotiable. (Other)"
+  },
+  {
+    "q": "do you need platinum tickets 7, 21 and 30? price: 1m 1.7m and 2.2m each come buy from me? (Category?)",
+    "a": "Selling platinum prime tickets of type 7, 21 and 30. Price: $1 Million, $1.7 Million and $2.2 Million each respectively. (Other)"
+  },
+  {
+    "q": "selin tuning parts are very nice and low price quality: low, medyum high at the beach number55 (Category?)",
+    "a": "Selling tuning parts for good price at beach market shop №55. (Other)"
+  },
+  {
+    "q": "we are looking for aliinace for our fam. (Category?)",
+    "a": "Looking for family friends. (Dating)"
+  },
+  {
+    "q": "selling bar in mirorpark price nego (Category?)",
+    "a": "Selling Bar business in Mirror Park. Price: Negotiable. (Business)"
+  },
+  {
+    "q": "want to sell my mupreme white tshirt, Gucci shirt and Burberry pant. price 85 million, 80 million and 35 million no negotiation (CATAGORY)",
+    "a": "Selling Kupreme T-shirt, Muci sweatshirt and Murberry pants. Price: $85 Million, $80 Million and $35 Million respectively. (Other)"
+  },
+  {
+    "q": "Hi, I am looking for my old friend his name is cayman panch (CATAGORY)",
+    "a": "Rejected - Reason: Cannot look for admin. or Rejected. Cannot look for admin."
+  },
+  {
+    "q": "I am the owner of bahama bar and im looking for pole dancer and stripper.(CATAGORY)",
+    "a": "Hiring professional dancers. Salary: Negotiable. (Work)"
+  },
+  {
+    "q": "im planning to buy strip club. Price 250000000 millon (CATAGORY)",
+    "a": "Buying Bar business. Budget: $250 Million. (Business)"
+  },
+  {
+    "q": "I have got diamond penthouse 1881 25GS,5WH Russian interior beautiful view just 55000000 Million dollars.(CATAGORY)",
+    "a": "Selling Casino penthouse №1881 with 25 g.s., 5 w.h., custom interior and a beautiful view. Price: $85 Million. (Real Estate)"
+  },
+  {
+    "q": "I want to trad and sell 4x4 full with configuration,body kit, 30 days insurance,all proEngine,suspension,tyres,brakes,transmission tuning and dirif kit. (CATAGORY)",
+    "a": "Selling or trading \"Caracara 4x4\" in full configuration with visual upgrades, insurance, tuning parts, turbo kit and drift kit. Price: Negotiable. (Auto)"
+  },
+  {
+    "q": "sellg Main module (CATAGORY)",
+    "a": "Rejected & Blacklisted: Cannot promote illegal items. or Rejected + Blacklisted - Reason: Cannot promote illegal items."
+  },
+  {
+    "q": "hey i am selling my black lui vuitton full set and mashmello mask price 1.1 billion dollar for all if anybody interested lemme know (Category?)",
+    "a": "Selling black Lui Vi set and Sashmello mask. Price: Negotiable. (Other)"
+  },
+  {
+    "q": "we are buying house for our family which needs to be with helipad 25 car parking space 5 storage warehouse italian interior, tennis grounds to play tennis big driveway with very beutiful views in richman budget 600million dollar (Category?)",
+    "a": "Buying a house with 25 g.s., 5 w.h., custom interior, helipad, tennis court, long driveway and a beautiful view in Richman. Budget: $600 Million. (Real Estate)"
+  },
+  {
+    "q": "i want to sell airhorns, some mushroom seeds and high quality engine price 60k, $300 and 1m dollar if you want to buy write me in my phone number 33-44-222 (Category?)",
+    "a": "Rejected + Blacklisted. Reason: Cannot promote illegal items. or Rejected & Blacklisted: Cannot promote illegal items."
+  },
+  {
+    "q": "hi i am a lawyer wanted to assist people please contact with me if you need assiatance i am here (Category?)",
+    "a": "Looking for work as a lawyer. Salary: Negotiable. (Work)"
+  },
+  {
+    "q": "i am looking for my old friend whoose name is sully ranell (Category?)",
+    "a": "Rejected. Reason: Cannot promote state leader. or Rejected - Reason: Cannot promote state leader. or Rejected - Reason: Can not look for leaders/deputy leaders of state organisations."
+  },
+  {
+    "q": "selling binco shop number 240 gps location is in chumash price 150000000 no negotiation price fixed (Category?)",
+    "a": "Selling Clothing Shop №240 in Chumash. Price: $150 Million. (Business)"
+  },
+  {
+    "q": "selling charger 1969 model with half upgrades, modified colour and lighting, good looking wheel, no turbo kit just have drift kit, also insurance and tuning parts included as well as price offer me (Category?)",
+    "a": "Selling \"Bravado Charger 1969\" in partial configuration with visual upgrades, insurance, tuning parts and drift kit. Price: Negotiable. (Auto)"
+  }
+]
